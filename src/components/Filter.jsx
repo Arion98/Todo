@@ -11,6 +11,7 @@ const Filter = ({filter,setFilter,setSort}) => {
                     <option value="All">Todas</option>
                     <option value="Completed">Completas</option>
                     <option value="Incomplete">Incompletas</option>
+                    assmasdas
                 </select>
             </div>
             <div>
